@@ -1,0 +1,25 @@
+1:09:33
+
+2:32:00 - solved the failed error
+
+3:06:39 - intalling supabase
+
+3:21:07 - SideBarMenu
+
+4:07:55 - Group setting page general setting(recently started)
+
+4:38:46 - HTMLParser
+
+5:29:30 - GroupListSidebar
+
+5:34:42 - Explore Page
+
+6:38:25
+
+6:58:31 - mobile navbar
+
+7:27:15 - (starting the Last chapter Courses Page) Page.tsx
+
+8:14:43
+
+9:5:12
