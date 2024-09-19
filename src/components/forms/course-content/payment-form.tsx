@@ -17,7 +17,7 @@ type Props = {
 
 const GroupList = dynamic(
   () =>
-    import("@/components/global/group-list-slider").then(
+    import("@/components/global/group-list-sidebar").then(
       (component) => component.GroupListSlider,
     ),
   {
